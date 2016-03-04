@@ -1,0 +1,26 @@
+{
+  "name": "learn-react",
+  "version": "1.0.0",
+  "description": "Building a small application to learn react, flux, firebase and wepback",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vjefri/learn-react-real-time-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vjefri/learn-react-real-time-app/issues"
+  },
+  "homepage": "https://github.com/vjefri/learn-react-real-time-app#readme",
+  "dependencies": {
+    "babel-core": "^6.6.4",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.6.0",
+    "react": "^0.14.7",
+    "webpack": "^1.12.14"
+  }
+}
